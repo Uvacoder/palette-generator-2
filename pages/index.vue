@@ -146,12 +146,12 @@ export default {
       loading: true,      
       copied: false,
       step2: {
-        regularUrl: 'https://res.cloudinary.com/mayashavin/image/upload/w_600,q_auto,f_auto/v1599156041/colors_generator/paste',
-        mobUrl: 'https://res.cloudinary.com/mayashavin/image/upload/w_400,q_auto,f_auto/v1599156041/colors_generator/paste'
+        regularUrl: 'https://res.cloudinary.com/uvacoder/image/upload/w_600,q_auto,f_auto/v1599156041/colors_generator/paste',
+        mobUrl: 'https://res.cloudinary.com/uvacoder/image/upload/w_400,q_auto,f_auto/v1599156041/colors_generator/paste'
       },
       step3: {
-        regularUrl: 'https://res.cloudinary.com/mayashavin/image/upload/w_600,q_auto,f_auto/v1599158305/colors_generator/step3',
-        mobUrl: 'https://res.cloudinary.com/mayashavin/image/upload/w_400,q_auto,f_auto/v1599158305/colors_generator/step3'
+        regularUrl: 'https://res.cloudinary.com/uvacoder/image/upload/w_600,q_auto,f_auto/v1599158305/colors_generator/step3',
+        mobUrl: 'https://res.cloudinary.com/uvacoder/image/upload/w_400,q_auto,f_auto/v1599158305/colors_generator/step3'
       }
     }
   },
